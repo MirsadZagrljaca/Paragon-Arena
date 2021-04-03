@@ -1,0 +1,106 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    overflow: hidden;
+    margin-left: 0px;
+  }
+  
+  .google-image {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10em;
+  }
+  
+  #sign_in {
+    background-color: #4285f4;
+    border-radius: 4px;
+  }
+  
+  #sign_in a {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .form-search {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 11em;
+  }
+  
+  #form-search {
+    width: 30em;
+    padding: 0.5em;
+    border-radius: 50px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 12.5em;
+  }
+  button {
+    background-color: #f2f2f2;
+    border: 1px solid #a6a7a8;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+  }
+  button {
+    margin-right: 0.3em;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav-links {
+    float: right;
+  }
+  
+  footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: #f2f2f2;
+    border-top: 1px solid #dadce0;
+    margin: 0px;
+  }
+  
+  footer a {
+    color: #70757a;
+  }
+  
+  .footer-left,
+  #Advertising,
+  #Business,
+  #About {
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .footer-right,
+  #Privacy,
+  #Terms,
+  #Settings {
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
