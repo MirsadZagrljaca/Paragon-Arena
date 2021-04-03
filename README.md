@@ -1,2 +1,1 @@
-Arena from Paragon Full Stack training
-score:92.5/100
+Paragon training, first part:Arena(selection phase). My final score:92.50/100 
