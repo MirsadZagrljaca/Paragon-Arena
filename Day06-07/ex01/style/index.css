@@ -1,0 +1,137 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 22px;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 100%;
+}
+
+.i1{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i2{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i3{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i4{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i5{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i6{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i7{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i8{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.i9{
+    width: 33%;
+    font-size: 10px;
+    display: block;
+    padding:2.5%;
+}
+
+.prvaTri{
+    display: inline-flex;
+    color:gray;
+    margin-left:0;
+    margin-right:0;
+}
+
+.drugaTri{
+    display: inline-flex;
+    color:gray;
+    margin-left:0;
+    margin-right:0;
+}
+
+.zadnjaTri{
+    display: inline-flex;
+    color:gray;
+    margin-left:0;
+    margin-right:0;
+}
+
+.p1{
+    color:lightskyblue;
+}
+
+.p2{
+    color:lightskyblue;
+}
+
+.p3{
+    color:lightskyblue;
+}
+
+.p4{
+    color:lightskyblue;
+}
+
+.p5{
+    color:lightskyblue;
+}
+
+.p6{
+    color:lightskyblue;
+}
+
+.p7{
+    color:lightskyblue;
+}
+
+.p8{
+    color:lightskyblue;
+}
+
+.p9{
+    color:lightskyblue;
+}
+
+img:active{
+    height:600px;
+    width:800px;
+    max-width: 200%;
+}
